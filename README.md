@@ -2,6 +2,8 @@
 
 ## Implementation
 Which features you included.
+Create an animation controller for a character - O
+Animate the character based on their actions - O
 
 ## References
 
@@ -12,4 +14,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Won Kim
